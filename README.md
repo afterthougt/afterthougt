@@ -1,4 +1,13 @@
-### Hi there 👋
+# afterthougt's GitHub
+
+## 💡 About
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://afterthougt.github.io&target="_blank")](https://afterthougt.github.io)
+
+## ⚡ GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afterthougt&show_icons=true&theme=github_light)
+
+<!--# Top-ranked Skills-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afterthougt&&hide=c,c++&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/afterthougt)-->
 
 <!--
 **afterthougt/afterthougt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
